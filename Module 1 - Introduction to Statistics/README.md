@@ -11,7 +11,7 @@
 
 ## 🔥 Aim for this lesson
 
-> Getting to know the statistics using python and familiarizing Jupyter Notebook.
+> Know the basic concept of statistics using python commands and familiarizing the Jupyter Notebook environment in Anaconda.
  
 
 ---
