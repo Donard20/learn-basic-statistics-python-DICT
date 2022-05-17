@@ -10,7 +10,7 @@
 * 🚀 [Solutions](#solutions)
 
 ---
-<!-- 
+
 ## 🔥 Aim for this lesson
 
 > Know the basic concept of statistics using python commands and familiarizing the Jupyter Notebook environment in Anaconda.
@@ -19,7 +19,7 @@
 ---
 # 🛠️ Problem / Instruction
 <p align="center">
-<img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/instruction_1.png" width=40% height=40%>
+<img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/instruction_2.png" width=40% height=40%>
 
   ## 🚀 Solution
  
@@ -30,7 +30,7 @@
 My Solution
 </summary>
 <p align="center">
-<img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/solution_1.png" width=80% height=80%>
+<img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/solution_2.png" width=80% height=80%>
 
 
  </details>
@@ -41,10 +41,9 @@ My Solution
 DICT Solution
 </summary>
 <p align="center">
-<img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/solution_1_DICT.png" width=80% height=80%>
+<img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/solution_2_DICT.png" width=80% height=80%>
 
 
-   -->
   
   
   
