@@ -17,34 +17,40 @@
  
 
 ---
-# 🛠️ Problem / Instruction
-<p align="center">
-<img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/instruction_2.png" width=40% height=40%>
+# 🛠️ Problem and Solution
+ 
+<details>
+<summary>
+ Test Score_3_4
+</summary>
+
+ <p align="center">
+ <img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/instruction_2.png" width=40% height=40%>
 
   ## 🚀 Solution
  
 
 
-<details>
-<summary>
-My Solution
-</summary>
-<p align="center">
-<img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/solution_2.png" width=80% height=80%>
+ <details>
+ <summary>
+ My Solution
+ </summary>
+ <p align="center">
+ <img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/solution_2.png" width=80% height=80%>
 
 
  </details>
   
 
-<details>
-<summary>
-DICT Solution
-</summary>
-<p align="center">
-<img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/solution_2_DICT.png" width=80% height=80%>
+ <details>
+ <summary>
+ DICT Solution
+ </summary>
+ <p align="center">
+ <img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/solution_2_DICT.png" width=80% height=80%>
 
 
-  
+</details>
   
   
   
