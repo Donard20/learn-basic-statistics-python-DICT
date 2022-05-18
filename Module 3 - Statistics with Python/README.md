@@ -18,42 +18,72 @@
 
 ---
 # 🛠️ Problem and Solution
- 
-<details>
-<summary>
- Test Score_3_4
-</summary>
-
- <p align="center">
- <img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/instruction_2.png" width=40% height=40%>
-
-  ## 🚀 Solution
- 
-
 
  <details>
- <summary>
- My Solution
- </summary>
- <p align="center">
- <img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/solution_2.png" width=80% height=80%>
+<summary>
+Test Score_3_4 
+</summary>
+  <p align="center">
+  <img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/instruction_2.png" width=40% height=40%>
+  
+   ## 🚀 Solution
+
+  <details>
+  <summary>
+  My Solution
+  </summary>
+  <p align="center">
+  <img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/solution_2.png" width=80% height=80%>
+
+
+  </details>
+  
+
+  <details>
+  <summary>
+  DICT Solution
+  </summary>
+  <p align="center">
+  <img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/solution_2_DICT.png" width=80% height=80%>
+
+  </details>
 
 
  </details>
   
-
- <details>
- <summary>
- DICT Solution
- </summary>
- <p align="center">
- <img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/solution_2_DICT.png" width=80% height=80%>
-
-
-</details>
+---
   
+  <details>
+<summary>
+population_data_exercise_3_8.ipynb 
+</summary>
+  <p align="center">
+  <img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/instruction_3.png" width=40% height=40%>
   
+   ## 🚀 Solution
+
+  <details>
+  <summary>
+  My Solution
+  </summary>
+  <p align="center">
+  <img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/solution_3.png" width=80% height=80%>
+
+
+  </details>
   
+
+  <details>
+  <summary>
+  DICT Solution
+  </summary>
+  <p align="center">
+  <img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/solution_3_DICT.png" width=80% height=80%>
+
+  </details>
+
+
+ </details>
   
   
   
