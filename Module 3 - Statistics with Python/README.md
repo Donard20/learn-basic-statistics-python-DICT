@@ -2,7 +2,7 @@
 
 # 📜 Statistics with Python
 <p align="center">
-<img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/code_resource.png" width=80% height=80%>
+<img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/descriptive-numpy-readme.png" width=80% height=80%>
 
 ## 📖 Table Of Contents
 * 🔥 [Aim for this lesson](#aim)
