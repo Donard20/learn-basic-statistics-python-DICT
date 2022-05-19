@@ -123,7 +123,7 @@ East Asia Population_Matplotlib
 - [x] .isin method --filter categories
 - [x] sort.values() --sort the data in values
 - [x] Matplotlib
-- [x] Plotting meau\sures of dispersion and central tendency on a Histogram
+- [x] Plotting measures of dispersion and central tendency on a Histogram
 - [x] Horizontal bar graph example
 
 
