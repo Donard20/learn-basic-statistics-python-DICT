@@ -1,7 +1,9 @@
 <a href="https://github.com/Donard20" target="_blank"><img src="https://img.shields.io/badge/View-My%20Profile-informational?style=for-the-badge&logo=github"></a>   <a href="https://github.com/Donard20?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/View-My%20Repositories-yellow?style=for-the-badge&logo=github"></a>   <a href="https://www.linkedin.com/in/engrnard/" target="_blank"><img src="https://img.shields.io/badge/View-LinkedIn-green?style=social&logo=linkedin"></a>
-# Programming with Python
+# Learn Basic Statistics with Python
 
 Python Training sponsored by DICT-Philippines. 
+<p align="center">
+<img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/statistics.png" width=50% height=50%>
 
 [Python Training](https://www.noypigeeks.com/government/dict-python-programming-courses/) offered April 2022
 
@@ -17,6 +19,9 @@ Python Training sponsored by DICT-Philippines.
 
 ## 🛠 Skill and IDE
 Python 3 | Pycharm Community and VSCode for Github integration
+
+<p align="center">
+<img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/jupyter-logo-main-960x504.png" width=30% height=30%>
 
 ## Used By
 
