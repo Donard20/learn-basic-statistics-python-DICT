@@ -2,6 +2,8 @@
 # Programming with Python
 
 Python Training sponsored by DICT-Philippines. 
+<p align="center">
+<img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/statistics.png" width=80% height=80%>
 
 [Python Training](https://www.noypigeeks.com/government/dict-python-programming-courses/) offered April 2022
 
@@ -17,6 +19,9 @@ Python Training sponsored by DICT-Philippines.
 
 ## 🛠 Skill and IDE
 Python 3 | Pycharm Community and VSCode for Github integration
+
+<p align="center">
+<img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/jupyter-logo-main-960x504.png" width=80% height=80%>
 
 ## Used By
 
