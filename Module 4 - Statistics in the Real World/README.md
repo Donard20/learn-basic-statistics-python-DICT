@@ -12,13 +12,13 @@
 * 🔥 [Aim for this lesson](#aim)
 * 🛠️ [Problem ](#problem-statement)
 * 🚀 [Solutions](#solutions)
-* 📙 [Learned](#learn)
+* 📙 [Discussed](#learn)
 
 ---
 
 ## 🔥 Aim for this lesson
 
-> Know the basic concept of Panda Library in Ptyhon in Jupyter Notebook.
+> Know the basic concept of Panda Library  and matplotlib visualization in Ptyhon in Jupyter Notebook.
  
 
 ---
@@ -59,47 +59,41 @@ East Asia Population_Coding Exercises
   
 ---
   
-<!--   <details>
+ <details>
 <summary>
-population_data_exercise_3_8.ipynb 
+Statistics in the Real World (Matplotlib Visualization)
 </summary>
   <p align="center">
-  <img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/instruction_3.png" width=40% height=40%>
+  <img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/matplot-visual-country-population.png" width=40% height=40%>
   
    ## 🚀 Solution
 
   <details>
   <summary>
-  My Solution
+  Solution
   </summary>
-  <p align="center">
-  <img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/solution_3.png" width=80% height=80%>
+   <p align="center">
+   <a href="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/Module%204%20-%20Statistics%20in%20the%20Real%20World/Statistics%20in%20the%20Real%20World%20(Matplotlib%20Visualization).ipynb" target="_blank"><img src="https://img.shields.io/badge/View-The%20Solution-blue?style=for-the-badge&logo=github"></a>
+<!--   <p align="center">
+  <img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/Module%204%20-%20Statistics%20in%20the%20Real%20World/Statistics%20in%20the%20Real%20World%20(Matplotlib%20Visualization).ipynb" width=80% height=80%> -->
 
 
-  </details>
-  
-
-  <details>
-  <summary>
-  DICT Solution
-  </summary>
-  <p align="center">
-  <img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/solution_3_DICT.png" width=80% height=80%>
-
-  </details>
 
 
- </details> -->
- 
+ </details>
  
 ---
   
-## 📙 Learned about:
+## 📙 Discussed about:
 
 - [x] .decribe()  -- using this to statistically summarize my dataframe
 - [x] .read_csv()  -- import my data in jupyter notebook
 - [x] .isin method --filter categories
 - [x] sort.values() --sort the data in values
+- [x] Matplotlib
+- [x] Plotting meau\sures of dispersion and central tendency on a Histogram
+- [x] Horizontal bar graph example
+
 
   
 
