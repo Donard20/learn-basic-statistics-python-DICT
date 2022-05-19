@@ -13,7 +13,7 @@
 
 ## 🔥 Aim for this lesson
 
-> Know the basic concept of statistics using python commands and familiarizing the Jupyter Notebook environment in Anaconda.
+> Know the basic concept of statistics using python commands ***NumPy*** and familiarizing the Jupyter Notebook environment in Anaconda.
  
 
 ---
