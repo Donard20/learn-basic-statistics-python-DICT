@@ -16,6 +16,8 @@ Python Training sponsored by DICT-Philippines.
 ## Project File
 
  - Introduction to statistics
+ - Statistics with Python
+ - Statistics in the Real World
 
 ## 🛠 Skill and IDE
 Python 3 | Pycharm Community and VSCode for Github integration
