@@ -34,6 +34,23 @@ Python 3 | Pycharm Community and VSCode for Github integration
 
 <p align="center">
 <img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/jupyter-logo-main-960x504.png" width=30% height=30%>
+ 
+
+## ✨ Certificate Training
+
+  <details>
+  <summary>
+  Learn Basic Statistics with Python
+  </summary>
+   <p align="center">
+   <a href="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/certificate/Learn%20Basic%20Statistics%20with%20Python%20Certificate.pdf" target="_blank"><img src="https://img.shields.io/badge/View-My%20Certificate-purple?style=for-the-badge&logo=github"></a>
+
+
+ </details>
+
+
+ </details>
+ 
 
 ## Used By
 
