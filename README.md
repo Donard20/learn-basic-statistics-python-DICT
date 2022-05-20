@@ -18,6 +18,16 @@ Python Training sponsored by DICT-Philippines.
  - Introduction to statistics
  - Statistics with Python
  - Statistics in the Real World
+ 
+## 📙 Learned about:
+
+- [x] Statistical function for statistical operations
+- [x] Difference between population and sample data
+- [x] Computed statistical operations with *Numpy*
+- [x] Work with real life data set using *Pandas*
+- [x] Use *read csv method* and the *descrive method*
+- [x] Filter the dataset using *isin method* and sort using *sort values method*
+- [x] Plot datasets with *Matplotlib*
 
 ## 🛠 Skill and IDE
 Python 3 | Pycharm Community and VSCode for Github integration

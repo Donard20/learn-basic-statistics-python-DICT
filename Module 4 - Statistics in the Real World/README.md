@@ -74,16 +74,48 @@ Statistics in the Real World (Matplotlib Visualization)
   </summary>
    <p align="center">
    <a href="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/Module%204%20-%20Statistics%20in%20the%20Real%20World/Statistics%20in%20the%20Real%20World%20(Matplotlib%20Visualization).ipynb" target="_blank"><img src="https://img.shields.io/badge/View-The%20Solution-blue?style=for-the-badge&logo=github"></a>
-<!--   <p align="center">
-  <img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/Module%204%20-%20Statistics%20in%20the%20Real%20World/Statistics%20in%20the%20Real%20World%20(Matplotlib%20Visualization).ipynb" width=80% height=80%> -->
-
-
 
 
  </details>
+   
+ </details>
  
 ---
+
+ <details>
+<summary>
+East Asia Population_Matplotlib 
+</summary>
+  <p align="center">
+  <img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/instruction_5.png" width=40% height=40%>
   
+   ## 🚀 Solution
+
+  <details>
+  <summary>
+  My Solution
+  </summary>
+  <p align="center">
+  <img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/solution_5.png" width=80% height=80%>
+
+
+  </details>
+  
+
+  <details>
+  <summary>
+  DICT Solution
+  </summary>
+  <p align="center">
+  <img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/solution_5_DICT.png" width=80% height=80%>
+
+  </details>
+
+
+ </details>
+   
+   
+---  
 ## 📙 Discussed about:
 
 - [x] .decribe()  -- using this to statistically summarize my dataframe
@@ -91,7 +123,7 @@ Statistics in the Real World (Matplotlib Visualization)
 - [x] .isin method --filter categories
 - [x] sort.values() --sort the data in values
 - [x] Matplotlib
-- [x] Plotting meau\sures of dispersion and central tendency on a Histogram
+- [x] Plotting measures of dispersion and central tendency on a Histogram
 - [x] Horizontal bar graph example
 
 
